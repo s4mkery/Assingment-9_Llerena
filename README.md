@@ -27,6 +27,12 @@ The analysis is implemented in Python within a Jupyter Notebook environment, uti
   * Used explicitly to customize fine-grained chart elements that Seaborn abstracts away:
     **Axis Transformations**: Applying logarithmic scaling (`plt.xscale('log')`, `plt.yscale('log')`) to resolve extreme skewness and multi-decade orders of                               magnitude.
      **Typography & Metadata**: Fine-tuning chart titles (`plt.title`), axes labels (`plt.xlabel`, `plt.ylabel`), and tick adjustments.
+---
+**Datasets**
+
+* *Exercise_Data.csv*
+
+* *Planets (loaded from Seabborn)*
 
 ---
 
